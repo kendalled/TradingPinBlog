@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Trading Pin Blog: News and Discussions',
+  title: 'Trading Pin Blog',
   description: 'Trading Pin Articles on a Weekly Basis.',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
