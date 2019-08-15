@@ -33,8 +33,7 @@ export const SiteDescription = styled.h2`
   margin: 0;
   padding: 5px 0;
   font-size: 2.2rem;
-  font-weight: 300;
-  letter-spacing: 0.5px;
+  font-weight: 500;
   opacity: 0.8;
 `;
 
