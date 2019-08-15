@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Trading Pin Blog: News and Discussions',
-    description: 'Trading Pins, Lapel Pins, and More - articles on a weekly basis.',
+    description: 'Trading Pins, Lapel Pins, and More - Articles on a Weekly Basis.',
     siteUrl: 'https://www.tradingpinblog.com', // full path to blog - no ending slash
   },
   mapping: {
