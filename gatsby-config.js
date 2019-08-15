@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Trading Pin Blog: News and Discussions',
     description: 'Trading Pins, Lapel Pins, & More - Articles on a Weekly Basis.',
-    siteUrl: 'https://www.tradingpinblog.com', // full path to blog - no ending slash
+    siteUrl: 'https://tradingpinblog.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://www.tradingpinblog.com',
+        siteUrl: 'https://tradingpinblog.com',
       },
     },
     'gatsby-plugin-emotion',
